@@ -1,6 +1,6 @@
-# Marketing Strategy Presentation
+# Sales Analysis and Forecasting for an Online Retail Business
 
-This repository contains the PowerPoint presentation for our **Sales Analysis and Forecasting for an Online Retail Businessarketing Strategy**.
+This repository contains the PowerPoint presentation for our **Sales Analysis and Forecasting for an Online Retail Business**.
 
 ## 📂 File Information
 
